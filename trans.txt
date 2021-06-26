@@ -1,0 +1,1436 @@
+albums
+Add
+Image
+Name
+Artist
+Release Date
+Popularity
+Number of Tracks
+Views
+tracks
+New Track
+Number
+Artists
+Duration
+Nothing To Display.
+No tracks have been attached to this album yet.
+Update
+Create
+Search artists...
+Auto Update
+Yes
+No
+artists
+Number of Albums
+Page Views
+Created At
+New Album
+Small Image
+Large Image
+Genres
+Add new...
+Whether this artist data (bio, discography, images etc.) should be updated periodically.
+Biography
+Biography Images
+Separate images with a new line (enter).
+Update Genre\n        New Genre
+Update Genre
+New Genre
+Upload genre image or enter image url.
+Close
+Update\n            Create
+genres
+Number of Artists
+Update Lyric\r\n        New Lyric
+Update Lyric
+New Lyric
+Track
+Search tracks...
+Update\r\n            Create
+lyrics
+Song
+Album
+Last Updated
+playlists
+Owner
+Public
+Blocked Artist
+Artists that should be blocked on the site (they will not be searchable, indexable, or appear on the site in any other way.
++Artist Name
+Player
+Select streaming method and configure player defaults and interface.
+Streaming Method
+What method should be used to stream music on the site.
+Youtube Api Key
+Suggested Quality
+Default
+Small
+Medium
+Large
+HD720
+HD1080
+Highres
+What quality should be used for youtube videos.
+Youtube Region Code
+For what country should youtube results be returned. US recommended. ISO 3166-1 alpha-2 Code.
+Soundcloud Api Key
+Default Player Volume (1 to 100)
+Sort Method
+External Popularity
+Local Views
+This will be used to sort artists, albums and tracks across the site.
+Automatically Open Overlay on Mobile
+Should fullscreen video overlay be opened automatically on mobile when user starts playback.
+Enable Download Functionality
+Only works for custom uploaded tracks.
+Hide Queue
+Should player queue (right sidebar) be hidden by default.
+Hide Video
+Should small video in the bottom right corner be hidden.
+Hide Lyrics Button
+Hide \"Lyrics\" button in player controls bar.
+Hide Video Button
+Hide video toggle button in player controls bar.
+Hide Radio Button
+Hide all \"go to radio\" buttons across the site.
+Data Providers
+Select and configure providers that will be used to automate the site.
+Information
+Local provider means that only data created manually via admin area will be used. No attempt will be made to fetch it from any 3rd party APIs or sites.
+Generate Sitemap
+Once generated, sitemap index url will be
+Artist Provider
+Album Provider
+Search Provider
+Genres Provider
+New Releases Provider
+Popular Albums Provider
+Top 50 Provider
+Artist Biography Provider
+Wikipedia Language
+ISO 639-1 (two letter) language code.
+Spotify ID
+Spotify Secret
+Discogs ID
+Discogs Secret
+Last.fm Api Key
+Should only be disabled if there are problems with 3rd party data providers.
+Update Track\r\n        New Track
+Update Track
+Search albums...
+Duration (ms)
+Popularity (1 to 100)
+Youtube ID
+Soundcloud Url
+Url
+(Optional) Absolute url from where track should be streamed.
+Upload
+Plays
+Release Date:
+Number of Songs:
+Running Time:
+Play
+Pause
+More...
+Add to Queue
+Add to Playlist
+Save to Your Music
+Copy Album Link
+Share
+Edit
+New Releases
+No new releases found.
+Could not find any new releases. Please try again later.
+Popular Albums
+No albums found.
+Could not find any popular albums. Please try again later.
+Overview
+Similar Artists
+About
+Popular Songs
+Show More
+Show Less
+Albums
+Could not find any similar artists for
+Could not find biography for
+Go to Artist Radio
+Copy Artist Link
+Back
+Select
+New Playlist
+Copy
+via email
++Email address
+(Optional) Email message
+Sharing with:
+Filter...
+Sorted by
+Popular Genres
+No genres found.
+Could not find any popular genres. Please try again later.
+Main site search
+Search...
+Admin Area
+Account Settings
+Logout
+Login
+Register
+Your Music
+Playlists
+Lyrics
+Update Playlist
+Playlist Name
+Playlist Description
+Give your playlist a catchy description.
+Songs
+By
+Follow
+Unfollow
+Delete
+Make Public
+Make Private
+Copy Link
+Go to Track Radio
+Remove from Queue
+Remove from Playlist
+Remove from Your Music
+Show Lyrics
+Copy Track Link
+Download
+Radio
+Search results for
+Top Results
+Users
+No results for
+Please check your spelling or try using different keywords.
+Search
+Find artists, albums, songs, playlists and more.
+View All Results...
+Followers
+No results found.
+Top 50
+No charts found.
+Could not find charts. Please try again later.
+Duration:
+Featured in
+Date Added
+Artist Name
+Nothing to display.
+You have not added any albums to your library yet.
+Number of Songs
+You have not added any artists to your library yet.
+Album Name
+You have not added any songs to your library yet.
+Public Playlists
+Following
+Seems like this user has not created any playlists yet.
+Seems like this user is not following anyone yet.
+Seems like no one is following this user yet.
+You have already created a playlist with this name.
+These credentials do not match our records.
+Too many login attempts. Please try again in :seconds seconds.
+&laquo; Previous
+Next &raquo;
+Passwords must be at least six characters and match the confirmation.
+Your password has been reset!
+We have e-mailed your password reset link!
+This password reset token is invalid.
+We can't find a user with that e-mail address.
+The :attribute must be accepted.
+The :attribute is not a valid URL.
+The :attribute must be a date after :date.
+The :attribute must be a date after or equal to :date.
+The :attribute may only contain letters.
+The :attribute may only contain letters, numbers, and dashes.
+The :attribute may only contain letters and numbers.
+The :attribute must be an array.
+The :attribute must be a date before :date.
+The :attribute must be a date before or equal to :date.
+The :attribute must be between :min and :max.
+The :attribute must be between :min and :max kilobytes.
+The :attribute must be between :min and :max characters.
+The :attribute must have between :min and :max items.
+The :attribute field must be true or false.
+The :attribute confirmation does not match.
+The :attribute is not a valid date.
+The :attribute does not match the format :format.
+The :attribute and :other must be different.
+The :attribute must be :digits digits.
+The :attribute must be between :min and :max digits.
+The :attribute has invalid image dimensions.
+The :attribute field has a duplicate value.
+The :attribute must be a valid email address.
+The selected :attribute is invalid.
+The :attribute must be a file.
+The :attribute field must have a value.
+The :attribute must be an image.
+The selected :attribute is invalid.
+The :attribute field does not exist in :other.
+The :attribute must be an integer.
+The :attribute must be a valid IP address.
+The :attribute must be a valid IPv4 address.
+The :attribute must be a valid IPv6 address.
+The :attribute must be a valid JSON string.
+The :attribute may not be greater than :max.
+The :attribute may not be greater than :max kilobytes.
+The :attribute may not be greater than :max characters.
+The :attribute may not have more than :max items.
+The :attribute must be a file of type: :values.
+The :attribute must be a file of type: :values.
+The :attribute must be at least :min.
+The :attribute must be at least :min kilobytes.
+The :attribute must be at least :min characters.
+The :attribute must have at least :min items.
+The selected :attribute is invalid.
+The :attribute must be a number.
+The :attribute field must be present.
+The :attribute format is invalid.
+The :attribute field is required.
+The :attribute field is required when :other is :value.
+The :attribute field is required unless :other is in :values.
+The :attribute field is required when :values is present.
+The :attribute field is required when :values is present.
+The :attribute field is required when :values is not present.
+The :attribute field is required when none of :values are present.
+The :attribute and :other must match.
+The :attribute must be :size.
+The :attribute must be :size kilobytes.
+The :attribute must be :size characters.
+The :attribute must contain :size items.
+The :attribute must be a string.
+The :attribute must be a valid zone.
+The :attribute has already been taken.
+The :attribute failed to upload.
+The :attribute format is invalid.
+These credentials do not match our records.
+Too many login attempts. Please try again in :seconds seconds.
+&laquo; Previous
+Next &raquo;
+Passwords must be at least six characters and match the confirmation.
+Your password has been reset!
+We have e-mailed your password reset link!
+This password reset token is invalid.
+We can't find a user with that e-mail address.
+The :attribute must be accepted.
+The :attribute is not a valid URL.
+The :attribute must be a date after :date.
+The :attribute must be a date after or equal to :date.
+The :attribute may only contain letters.
+The :attribute may only contain letters, numbers, and dashes.
+The :attribute may only contain letters and numbers.
+The :attribute must be an array.
+The :attribute must be a date before :date.
+The :attribute must be a date before or equal to :date.
+The :attribute must be between :min and :max.
+The :attribute must be between :min and :max kilobytes.
+The :attribute must be between :min and :max characters.
+The :attribute must have between :min and :max items.
+The :attribute field must be true or false.
+The :attribute confirmation does not match.
+The :attribute is not a valid date.
+The :attribute does not match the format :format.
+The :attribute and :other must be different.
+The :attribute must be :digits digits.
+The :attribute must be between :min and :max digits.
+The :attribute has invalid image dimensions.
+The :attribute field has a duplicate value.
+The :attribute must be a valid email address.
+The selected :attribute is invalid.
+The :attribute must be a file.
+The :attribute field must have a value.
+The :attribute must be an image.
+The :attribute field does not exist in :other.
+The :attribute must be an integer.
+The :attribute must be a valid IP address.
+The :attribute must be a valid IPv4 address.
+The :attribute must be a valid IPv6 address.
+The :attribute must be a valid JSON string.
+The :attribute may not be greater than :max.
+The :attribute may not be greater than :max kilobytes.
+The :attribute may not be greater than :max characters.
+The :attribute may not have more than :max items.
+The :attribute must be a file of type: :values.
+The :attribute must be at least :min.
+The :attribute must be at least :min kilobytes.
+The :attribute must be at least :min characters.
+The :attribute must have at least :min items.
+The :attribute must be a number.
+The :attribute field must be present.
+The :attribute format is invalid.
+The :attribute field is required.
+The :attribute field is required when :other is :value.
+The :attribute field is required unless :other is in :values.
+The :attribute field is required when :values is present.
+The :attribute field is required when :values is not present.
+The :attribute field is required when none of :values are present.
+The :attribute and :other must match.
+The :attribute must be :size.
+The :attribute must be :size kilobytes.
+The :attribute must be :size characters.
+The :attribute must contain :size items.
+The :attribute must be a string.
+The :attribute must be a valid zone.
+The :attribute has already been taken.
+The :attribute failed to upload.
+The :attribute is not correct.
+Delete Selected
+Number Of Tracks
+Edit album
+Title
+Subtitle
+Description
+Input Text
+Input Button
+Call to Action #1
+Call to Action #2
+Manage Channels
+Find channel...
+New Channel
+Header Title
+Header Subtitle
+Header Image
+Header Overlay Color 1
+Header Overlay Color 2
+Action Buttons
+Primary Features
+Secondary Features
+Channels
+Footer Title
+Footer Subtitle
+Footer Image
+Feature
+Edit artist
+Save artist first to enable album creation.
+
+Delete album
+Edit Album
+Create Album
+Details
+Content Type
+Layout
+Edit channel
+Mixed
+Tracks
+Grid
+Carousel
+Track Table
+Track List
+Carousel layout will only affect nested channels.
+Auto update channel content
+Select with what type of content this channel should be automatically updated.
+Dont update automatically
+Local: Popular tracks
+Local: Popular albums
+Local: Popular genres
+Local: Most recent albums (By release date)
+Local: Most recent tracks (By date added)
+Local: Popular Playlists
+Local: Popular Artists
+Spotify: Popular tracks
+Spotify: Popular albums
+Spotify: New Releases
+Spotify: Popular artists
+Last.fm: Popular genres
+Channel will only automatically update once a day.
+SEO Title
+SEO Description
+Save
+Hide Title
+Channel Content
+Search for content
+Search for content to add...
+Channel is empty
+No content is attached to this channel yet.
+Update channel content now
+SEO
+Will be used in the url.
+Display Name
+Will be used across the site. If not provided, name will be used instead.
+Upload genre image
+Genre
+Edit genre
+Edit lyric
+Playlist
+Edit playlist
+Interface
+Configure site interface looks and behaviour.
+Artist Type
+User
+User type means all music content on the site will be uploaded by users and those users are the artists for uploaded content.
+Artist type means that music content is either imported automatically or created by admin.
+Seekbar Type
+Waveform
+Simple Bar
+This will only affect tracks uploaded by users.
+Default Artist Albums View
+List
+How should albums on main artist page be displayed by default.
+Upload Button
+Whether upload button should be shown in left sidebar (Assuming user has permissions to upload tracks).
+Track Comments
+Whether comments functionality should be enabled on track pages.
+Should small video in the bottom right corner be hidden by default.
+Enable Reposts
+Enable reposting functionality for albums and tracks.
+Youtube Search Method
+Youtube Website (Recommended)
+Youtube API
+Which method should be used to find a matching video for tracks.
+Suggested Video Quality
+None
+Instructs youtube API to return only videos that can be viewed in the specified country.
+Store Youtube ID
+Store youtube video ID for tracks in database to improve performance for subsequent plays of same song.
+Genre Artists Provider
+From where should artists for specific genre page be retrieved.
+Lyrics Provider
+RapidAPI Application Key
+Edit lyrics
+Edit track
+No Artist
+No artists found.
+Upload Tracks
+Tags
+Cancel
+No Album
+Search artists and users...
+Replace File
+Upload Track
+Youtube Video ID
+Remote Track Url
+left
+Upload complete.
+We are processing your track for playback…
+Drag and drop your tracks, videos & albums here.
+or choose files to upload
+Attach all uploaded files to a new album.
+Create Artists
+Automatically create artists based on track metadata (unless artist already exists).
+View now.
+Media link
+Added
+More
+mins
+Add to Your Music
+Seems like this channel does not have any content yet.\n                &ngsp;\n                Configure
+Seems like this channel does not have any content yet.
+Configure
+New playlist
+Embed
+Minimize
+Show Queue
+Show video
+Fullscreen
+Shuffle
+Account
+Download song
+Toggle video
+Toggle queue
+Repeat
+Repeat One
+Mute
+Unmute
+Followed
+This playlist does not have any tracks yet.
+People
+See all
+No tracks yet
+No albums yet
+This tag is not attached to any albums yet, check back later.
+New Comment
+Submit
+Like
+Repost
+Show options
+Seems a little quiet over here
+Be the first to comment on this track
+comments
+Reply
+at
+You have not added any playlists to your library yet.
+Add to library
+Remove from library
+Liked tracks
+Listening History
+You have not played any songs yet.
+Edit your profile
+Username
+First Name
+Last Name
+City
+Country
+Your Links
+Add link
+Short Title
+Follow :displayName for updates on albums they share in the future.
+No reposts yet
+Follow :displayName for updates on reposts they share in the future.
+Follow :displayName for updates on tracks they share in the future.
+Follow :displayName for updates on tracks they like in the future.
+Seems like no one is following :displayName yet.
+Seems like :displayName is not following anyone yet.
+Pro member
+Update Name or Profile Image
+Profile image
+For best results, upload a high resolution image.
+Upload Image
+Remove Image
+Save Changes
+Manage Social Login
+Enable or disable connected social services
+Update Password
+Current Password
+New Password
+Confirm Password
+Api Token
+Update Account Preferences
+Language
+Timezone
+Envato Account
+Disable
+Enable
+Google+ Account
+Facebook Account
+Twitter Account
+Version:
+Predefined AD Slots
+Disable Ads
+Disable all ad related functionality.
+Analytics
+This Week vs Last Week
+By page views
+This week
+Last week
+Top Browsers
+By sessions
+This Month vs Last Month
+This month
+Last month
+Top Countries
+Remove
+Use Default
+Customizing
+Appearance Editor
+Saved
+Code Editor
+If entering javascript, wrap it with <script></script> tag.
+Custom CSS
+Modify
+Custom HTML & Javascript
+Site Name
+Site Description
+New Menu Item
+Link
+URL
+Link Text
+Route
+Menu Items
+Label
+Type
+Page
+Action
+Condition
+Show to Logged in Users Only
+Show to Guest Users Only
+Show to Admin Only
+Open link in
+Same Window
+New Window
+Icon
+(Optional)
+This menu has no items yet.
+Menu Name
+Menu Position
+Delete Menu
+Add Item
+Add a Menu
+Update Theme
+Create Theme
+Dark Theme
+Whether this theme has light text on dark background.
+Default Dark Theme
+Whether this theme should be used as default dark theme.
+Default Light Theme
+Whether this theme should be used as default light theme.
+Update\n            \n                Create
+New Theme
+Update Plan Details
+Create a New Plan
+Parent Plan
+Used for creating yearly, weekly etc versions of base plan. Child plans will inherit their parent permissions/features.
+Amount
+How much subscribers of this plan should be charged. (Dollars, euros etc.)
+For example, Amount=100, Interval=Year and Interval Count=1, will charge user 100 dollars every year.
+Plan amount can't be changed once plan has already been created, however you can add a new child plan with a different price or delete this plan and create a new one.
+Currency
+Interval
+The frequency with which a subscription should be billed.
+Interval Count
+The number of intervals (specified in the interval property above) between each subscription billing. For example, Interval=Month and Interval Count=3 bills every 3 months.
+Position
+Order of plans. Lower position will appear first.
+Recommended
+Plan will be marked as \"Most Popular\" and emphasized to users.
+Free
+Basic free plan that will be assigned to new users that have not upgraded to other plans.
+Show Permissions
+Whether plan permissions should be displayed as features to users.
+Hidden
+Whether this plan should be hidden on upgrade and pricing pages.
+Custom Features
+No custom features yet.
++New Feature
+Available Space
+Hard drive space available to users subscribed to this plan.
+Update Plan
+Create Plan
+Any
+USD
+Eur
+Pound Sterling
+Canadian Dollar
+Day
+Week
+Month
+Year
+Child
+Parent
+Sync
+Edit plan
+Update Subscription Details
+Create a New Subscription
+Plan
+Renews At
+This will only change local records. User will continue to be billed on their original cycle on the payment gateway.
+Ends At
+Status
+Active
+Cancelled
+Gateway
+Paypal
+Stripe
+On Grace Period
+Cancel/Suspend
+All
+Text
+Audio
+Video
+Folder
+PDF
+Archive
+Private
+Protection
+Has Password
+Does Not Have Password
+File Entries
+File Name
+File Size
+Uploaded At
+Delete selected
+Update Localization
+Create Localization
+New Localization
+Set as Default
+Add New Translation
+Search Translations
+Source Text
+Translation
+Add New Translation Line
+Translation Key
+Word or sentence you want to translate.
+Translation Value
+What word or sentence should be translated to.
+Permissions
+Manage
+No permissions yet.
+Select Permissions
+Update Role
+Create a New Role
+Site Wide
+Workspace
+Assign this role to new users automatically.
+Guests
+Assign this role to guests (not logged in users).
+New Role
+Assign Users
+Unassign Users
+Assigned At
+This role can't be assigned to users.
+No users are assigned this role yet.
+No role selected.
+Configure google analytics integration and credentials.
+Google Service Account Key File (.json)
+Google Analytics View ID
+Google Analytics Tracking Code
+Google analytics tracking code only, not the whole javascript code snippet.
+Authentication
+Configure registration, social login and related 3rd party integrations.
+Require Email Confirmation
+Require new users to validate their email address before being able to login.
+Outgoing mail method needs to be setup before enabling this setting.
+Fix now.
+Disable Registration
+All registration (including social login) will be disabled.
+Single Device Login
+Only allow one device to be logged into user account at the same time.
+Envato Login
+Enable logging into the site via envato.
+Envato ID
+Envato Secret
+Envato Personal Token
+Google Login
+Enable logging into the site via google.
+Google Client ID
+Google Client Secret
+Facebook Login
+Enable logging into the site via facebook.
+Facebook App ID
+Facebook App Secret
+Twitter Login
+Enable logging into the site via twitter.
+Twitter ID
+Twitter Secret
+Billing
+Configure billing and subscription settings.
+Enable Billing
+Enable or disable all billing functionality across the site.
+Paypal Gateway
+Enable PayPal payment gateway.
+Paypal Client ID
+Paypal Secret
+Paypal Webhook ID
+Paypal Test Mode
+Allows testing PayPal payments with sandbox accounts.
+Stripe Gateway
+Enable Stripe payment gateway.
+Stripe Client ID
+Stripe Secret
+Accepted Cards
++New Card...
+Invoice Address
+Address to show under \"from\" section of user invoice. Supports HTML. Optional.
+Invoice Note
+Default notes to show under \"notes\" section of user invoice. Optional.
+General
+Invoices
+Cache
+Configure cache time, method and related 3rd party integrations.
+Cache Method
+Which method should be used for storing and retrieving cached items.
+Memcached Host
+Memcached Port
+Clear Cache
+Important!
+\"File\" is the best option for most cases and should not be changed, unless you are familiar with another cache method and have it set up on the server already.
+GDPR
+Configure settings related to EU General Data Protection Regulation.
+Enable Cookie Notice
+Whether cookie notice should be shown automatically to users from EU until it is accepted.
+None (Hide learn more link)
+Cookie Notice Position
+Top
+Bottom
+Here you can create policies that will be shown on registration page and user will be required to accept them by toggling a checkbox.
+Optional...
+Configure general site settings.
+Site Url
+Base site url is set as \":baseUrl\" in configuration, but current url is \":currentUrl\". It's recommended to set the primary url you want to use in configuration file and then redirect all other url versions to this primary version via cpanel or .htaccess file.
+More Information.
+Site Homepage
+Type of the homepage.
+Application Page
+Default Site Theme
+Light
+Dark
+Allow Theme Change
+Allow user to switch from dark to light mode and vice versa.
+Localization
+Manage localization settings for the site.
+Choose either a city in the same timezone as you or a UTC timezone offset.
+Site Language
+Which translation should be selected by default for new users.
+Date Format
+Custom
+Custom Date Format
+Translations
+Enable translations functionality for the site.
+Default format for dates on the site.
+Preview:
+Logging
+Configure site error and access logging and related 3rd party integrations.
+Sentry DSN
+integration provides real-time error tracking and helps identify and fix issues when site is in production.
+Mail
+Change incoming and outgoing email handlers, email credentials and more.
+From Address
+All outgoing application emails will be sent from this email address.
+Contact Page Address
+Where emails from :url page should be sent to.
+From Name
+All outgoing application emails will be sent using this name.
+Your selected mail method must be authorized to send emails using this address and name.
+Incoming Mail Method
+Mailgun
+API (Send emails via http API)
+Pipe (Pipe emails directly)
+Which method should be used to handle incoming application emails.
+Outgoing Mail Method
+Which method should be used for sending outgoing application emails.
+SMTP Host
+SMTP Username
+SMTP Password
+SMTP Port
+SMTP Encryption
+Mailgun Domain
+Usually the domain of your site (site.com)
+Mailgun API Key
+Should start with \"key-\"
+SES Key
+SES Secret
+SES Region
+Sparkpost Secret
+Queue
+Select active queue method and enter related 3rd party API keys.
+Queues allow to defer time consuming tasks, such as sending an email, until a later time. Deferring these tasks can speed up web requests to the application.
+Important
+All methods except sync require additional setup, which should be performed before changing the queue method. Consult documentation for more information.
+Queue Method
+Sync (Default)
+SQS (Amazon simple queue service)
+SQS Queue Key
+SQS Queue Secret
+SQS Queue Prefix
+SQS Queue Name
+SQS Queue Region
+Recaptcha
+Configure google recaptcha integration and credentials.
+Recaptcha V3 Site Key
+Recaptcha V3 Secret Key
+Uploading
+Menus
+Seo
+Themes
+Backblaze Application Key (Master)
+Backblaze Application Key ID (Master)
+Backblaze Bucket Name
+DigitalOcean Key
+DigitalOcean Secret
+DigitalOcean Region
+DigitalOcean Bucket
+Access Token
+Root Directory
+FTP Hostname
+FTP Username
+FTP Password
+FTP Directory
+FTP Port
+Passive
+SSL
+Rackspace Username
+Rackspace Key
+Rackspace Region
+Rackspace Container
+Amazon S3 Key
+Amazon S3 Secret
+Amazon S3 Region
+Amazon S3 Bucket
+Amazon S3 Endpoint
+Only change endpoint if you are using another S3 compatible storage service.
+Optional
+User Uploads
+Configure size and type of files that users are able to upload. This will affect all uploads across the site.
+User Uploads Storage Method
+Local Disk (Default)
+Public Uploads Storage Method
+File Delivery Optimization
+Both X-Sendfile and X-Accel need to be enabled on the server first. When enabled it will reduce server memory and CPU usage when previewing or downloading files, especially for large files.
+Chunked Uploads
+When enabled larger files will be uploaded in smaller chunks to improve upload reliability and avoid server max upload size limits.
+Chunk Size
+Size for each file chunk. Recommended size is 2MB-5MB. Must be lower then max upload file size on your server.
+Resumable Uploads
+Allow users to resume partial or failed uploads.
+Maximum file size
+Maximum size for a single file user can upload.
+Disk space each user uploads are allowed to take up. This can be overridden per user.
+Allowed file types
+List of allowed file types (jpg, mp3, pdf etc.). Leave empty to allow all file types.
+Blocked file types
+Prevent uploading of these file types, even if they are allowed above.
+Maximum upload size on your server currently is set to
+Update Tag
+Create a New Tag
+Unique tag identifier.
+User friendly tag name.
+Edit tag
+Update User Details
+Create a New User
+Email
+Password
+Email Confirmed
+Resend
+Generate
+Disk space available to user. If left empty, it will be inherited from value set in \"admin -> settings -> uploading\" page.
+Update User
+Create User
+Roles
+No roles yet.
+Select Roles
+Subscribed
+Not subscribed
+Email confirmed
+Email not confirmed
+Edit user
+Don't have an account?
+Sign up.
+Already have an account?
+Sign in.
+Find User
+Enter your email address below and we will send you a link to reset or create your password.
+Continue
+Forgot your password?
+Stay signed in for a month
+Sign in with Envato instead
+Login with facebook
+Login with google
+Login with twitter
+Envato Purchase Code
+I accept the
+Create Account
+Credentials Required
+Email Address
+We need your email address to create an account for you, please enter it above.
+An account with this email address already exists, if you want to connect the two account's please enter existing accounts password above.
+Connect
+Reset your account password
+Confirm New Password
+Reset Password
+Credit or Debit Card
+Card Expiration
+CVC
+Your Payment History
+Date
+Invoice
+View
+Select the duration of your plan. Longer plans offer better discounts!
+subscription
+After clicking the button below, you will be redirected to paypal.com to approve the subscription.
+Bank Card
+Change Plan
+You still have access to your plan's features until this date and you can resume your subscription anytime, by clicking button below.
+Resume
+Payment Method
+Change your preferred payment method below. You can use a credit card or PayPal.
+Cancel Subscription
+After cancelling subscription, you will have access to your active plan until your billing period end.
+Your plan will automatically renew on
+You are on a grace period until
+Your subscription will not automatically resume and you will not be charged
+Current payment Method
+Accepted Payment Methods
+Do you have any questions about PRO accounts?
+Our support team will be happy to assist you.
+Contact Us
+Total
+SSL Secure Payment
+Your information is protected by 256-bit SSL encryption
+You authorise :siteName to charge you automatically every :intervalCount :intervalName, until you cancel your subscription. You consent to get access to your :siteName subscription immediately, and acknowledge that refunds are only available within 14 days and provided you haven't accessed :siteName. You will be able to cancel your subscription at any time from your profile page.
+Subscription plan
+Subscription interval
+Payment
+Please use the form below to send us a message and we'll get back to you as soon as possible.
+Message
+Send
+From
+To
+Change
+Try Pro
+Notifications
+Subscription
+Light Mode
+Dark Mode
+Log Out
+Site logo
+Tag
+Any Tag
+No tags found.
+Any User
+No users found.
+Connect Domain
+Host
+Global
+Whether all users should be able to select this domain.
+Add this CNAME record to your domain by visiting your DNS provider or registrar.
+Add this A record to your domain by visiting your DNS provider or registrar.
+Checking DNS configuration...
+refresh
+Connecting domain...
+Don't close this window until domain is connected.
+Previous
+Next
+You can wait and try again later or
+Add Domain
+Edit domain
+Filters
+Items per page
+of
+Selected
+We use cookies to optimize site functionality and provide you with the best possible experience.
+Learn More
+OK
+Hang tight!
+Notifications will start showing up here soon.
+Notification Settings
+Mark all as read
+View all
+Settings
+Save Settings
+Page Title
+Hide Navbar
+Whether default site navbar should be hidden for this page.
+Slug
+Body
+Edit page
+Opps! We can't find the page you're looking for.
+Home
+No data available for this time period.
+The link you are trying to access is password protected.
+Password does not match.
+Enter
+Select :tagName
+Merge :tagName
+Separate :tagName with comma.
+Choose from existing :tagName:
+Insert
+Horizontal Line
+Media
+Warning
+Note
+Format
+Heading 1
+Heading 2
+Heading 3
+Strikethrough
+Superscript
+Subscript
+Blockquote
+Paragraph
+Color
+Text Color
+Background Color
+Visual
+Source
+Add Attachment
+Insert Code Sample
+Undo
+Redo
+Bold
+Italic
+Underline
+Unordered List
+Ordered List
+Insert Link
+Insert Image
+Remove Formatting
+Align Left
+Center
+Align Right
+Decrease Indent
+Increase Indent
+landing page
+Delete Album
+Are you sure you want to delete this album?
+Artist created.
+Artist updated.
+Channels deleted.
+Channel saved.
+Item detached.
+Item attached.
+Channel
+channel
+upload
+channels
+interface
+player
+providers
+Slot #1
+Slot #2
+Slot #3
+Slot #4
+Slot #5
+Where site uploads (music and video files, avatars, media images etc.) should be stored.
+This ad will appear at the top of most pages. Best size <= 150px height or responsive.
+This ad will appear at the bottom of most pages. Best size <= 150px height or responsive.
+This ad will appear in artist page only (below popular songs). Best size <= 1000px width or responsive.
+This ad will appear in artist page only (below similar artists). Best size <= 430px width or responsive.
+This ad will appear in album page only (above album tracks). Best size is as wide as possible or responsive.
+Are you sure you want to cancel all uploads and delete this album?
+Some tracks are still uploading.
+Album saved.
+Remove Track
+Are you sure you want to cancel the upload and remove this track?
+Track saved.
+Upload canceled.
+Track deleted.
+Track uploaded.
+This album has no tracks yet.
+Removed from library
+Album deleted.
+Added to playlist
+Saved to library
+Copied link to clipboard.
+Copyright © :year, All Rights Reserved
+hr
+min
+sec
+Could not find lyrics for this song.
+To enable music playback you will need to upgrade to a higher plan.
+Delete Playlist
+Are you sure you want to delete this playlist?
+Comment posted.
+Delete Track
+Are you sure you want to delete this track?
+Profile updated.
+Account settings updated
+Avatar updated
+Avatar removed
+Password updated
+analytics
+appearance
+settings
+plans
+subscriptions
+users
+roles
+pages
+tags
+files
+translations
+ads
+Ads updated
+Appearance saved
+general
+themes
+menus
+custom code
+seo settings
+Close Appearance Editor
+Are you sure you want to close appearance editor?
+Custom code saved
+New Menu
+Delete Menu Item
+Are you sure you want to delete this menu item?
+Are you sure you want to delete this menu?
+Delete Theme
+Are you sure you want to delete this theme?
+Theme deleted
+Synced plans across all enabled payment gateways
+Delete Subscription
+Are you sure you want to cancel this subscription?
+Are you sure you want to delete this subscription?
+Subscription cancelled.
+custom
+Delete Localization
+Are you sure you want to delete this localization?
+Default Localization Changed
+Localizations updated
+There must be at least one localization.
+Localization deleted
+Delete Role
+Remove users from role
+Are you sure you want to delete this role?
+Are you sure you want to remove selected users from this role?
+User assigned to role
+Users removed from role.
+Cache cleared.
+Sitemap generated.
+Settings saved.
+Verification email re-sent.
+Deleted selected users
+Confirmation email sent.
+Could not verify you are human.
+Registered successfully.
+Your password has been reset.
+Accounts connected
+An error occurred. Please try again later
+Are you sure you want to cancel your subscription?
+Yes, Cancel
+Subscription resumed.
+Payment method updated.
+Subscription plan changed.
+Your message has been submitted.
+Where public uploads (like user avatars) should be stored.
+trans
+favicon
+formattedDate
+Domain connected
+Domains deleted.
+Unsaved Changes
+You have unsaved changes. Do you want to discard them?
+Discard
+Notification settings updated.
+Notifications blocked. Please enable them for this site from browser settings.
+Pages deleted
+Login Page
+Register Page
+Custom Page
+Next page
+Previous page
+Current window
+formattedFileSize
+Month
+Year
+All types allowed...
+No types blocked...
+Artist already has album with this name.
+You have exceeded the total number of minutes allowed for your account. To upload more tracks you will need to upgrade to a higher plan.
+Popular Tracks
+History
+Total Users
+Total Tracks
+Total Albums
+Total Artists
+View Files
+Allow viewing ALL files.
+View Localizations
+localizations
+Allow viewing ALL localizations.
+View Artists
+Allow viewing ALL artists.
+View Albums
+Allow viewing ALL albums.
+View Tracks
+Allow users to view public tracks on the site (track pages, search, channels etc.)
+View Genres
+Allow viewing ALL genres.
+View Lyrics
+Allow viewing ALL lyrics.
+View Playlists
+Allow viewing ALL playlists.
+Create Files
+Allow creating new files.
+View Users
+Allow viewing ALL users.
+Create Playlists
+Allow creating new playlists.
+View Plans
+Allow viewing ALL plans.
+Allow creating new artists.
+Update Artists
+Allow updating ALL artists.
+Delete Artists
+Allow deleting ALL artists.
+Create Albums
+Allow creating new albums.
+Update Albums
+Allow updating ALL albums.
+Delete Albums
+Allow deleting ALL albums.
+Create Tracks
+Allow creating new tracks.
+Update Tracks
+Allow updating ALL tracks.
+Delete Tracks
+Allow deleting ALL tracks.
+Create Genres
+Allow creating new genres.
+Update Genres
+Allow updating ALL genres.
+Delete Genres
+Allow deleting ALL genres.
+Create Lyrics
+Allow creating new lyrics.
+Update Playlists
+Allow updating ALL playlists.
+Delete Playlists
+Allow deleting ALL playlists.
+View Reports
+Allows access to analytics page.
+Super Admin
+admin
+Give all permissions to user.
+Update Users
+Allow updating ALL users.
+Delete Users
+Allow deleting ALL users.
+Create Users
+Allow creating new users.
+Update Localizations
+Allow updating ALL localizations.
+Delete Localizations
+Allow deleting ALL localizations.
+View Mail Templates
+mail_templates
+Allow viewing ALL mail templates.
+Update Mail Templates
+Allow updating ALL mail templates.
+Create Localizations
+Allow creating new localizations.
+View Settings
+Allow viewing ALL settings.
+Update Settings
+Allow updating ALL settings.
+Update Lyrics
+Allow updating ALL lyrics.
+Delete Lyrics
+Allow deleting ALL lyrics.
+Access Admin
+Required in order to access any admin area page.
+Update Appearance
+Allows access to appearance editor.
+Delete Files
+Allow deleting ALL files.
+Delete Roles
+Allow deleting ALL roles.
+Update Roles
+Allow updating ALL roles.
+Create Roles
+Allow creating new roles.
+View Roles
+Allow viewing ALL roles.
+View Custom Pages
+custom_pages
+Allow viewing ALL custom pages.
+Create Custom Pages
+Allow creating new custom pages.
+Update Custom Pages
+Allow updating ALL custom pages.
+Delete Custom Pages
+Allow deleting ALL custom pages.
+View Channels
+Allow viewing ALL channels.
+Create Channels
+Allow creating new channels.
+Update Channels
+Allow updating ALL channels.
+Delete Channels
+Allow deleting ALL channels.
+Create Plans
+Allow creating new plans.
+Delete Plans
+Allow deleting ALL plans.
+View Invoices
+invoices
+Allow viewing ALL invoices.
+View Tags
+Allow viewing ALL tags.
+Create Tags
+Allow creating new tags.
+Update Tags
+Allow updating ALL tags.
+Delete Tags
+Allow deleting ALL tags.
+Download Tracks
+Allow  tracks.
+View Comments
+Allow viewing ALL comments.
+Create Comments
+Allow creating new comments.
+Update Comments
+Allow updating ALL comments.
+Delete Comments
+Allow deleting ALL comments.
+Embed Tracks
+Allow users to embed tracks and albums on their own site.
+Play Tracks
+Allow users to play music on the site.
